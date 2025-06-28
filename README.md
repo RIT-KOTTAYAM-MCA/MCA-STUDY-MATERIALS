@@ -11,6 +11,6 @@ This repository provides:
 - **Public Exam Question Papers**: Previous years’ university or public exam papers for MCA syllabi.
 - **Community-Driven**: Open to contributions from students, educators, and enthusiasts to keep content updated and relevant.
 
-This repository is beginner-friendly and welcomes contributions, especially during events like **Hacktoberfest**! 🚀
+This repository is beginner-friendly 
 
 ## 📂 Repository Structure
